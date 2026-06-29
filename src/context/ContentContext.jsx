@@ -57,7 +57,7 @@ const defaultContent = {
       title: 'Echoes of Nature — Ashkar Dighi',
       role: 'Spatial Designer / Researcher',
       context: 'Academic Design Project',
-      image: '/images/echoes-of-nature.png',
+      image: 'images/echoes-of-nature.png',
       bullets: [
         'Executed a community-centered landscape design for Ashkar Dighi, focusing on the end-user experience of public spaces.',
         'Applied qualitative and quantitative survey research to gather stakeholder requirements, directly mirroring UX research methodologies.',
@@ -69,7 +69,7 @@ const defaultContent = {
       title: 'Land Suitability for Rubber Cultivation',
       role: 'GIS Data Analyst',
       context: 'Course Project — Level 4, Term 1',
-      image: '/images/gis-rubber-map.png',
+      image: 'images/gis-rubber-map.png',
       bullets: [
         'Engineered a visual land-use strategy mapping project for the Chittagong District.',
         'Processed and integrated complex datasets — soil, slope, climate, and land-use — into a unified, visually digestible format.',
