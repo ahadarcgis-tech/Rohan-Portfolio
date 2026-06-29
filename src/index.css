@@ -198,7 +198,7 @@ ul, ol {
 
 @media (max-width: 767px) {
   .section {
-    padding: var(--spacing-2xl) 0;
+    padding: var(--spacing-xl) 0;
   }
 }
 
